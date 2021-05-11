@@ -18,7 +18,7 @@ its data in a database and can be interrupted and re-started
 as often as needed.   It may take many hours to pull all the data
 down.  So you may need to restart several times.
 
-To give you a head-start, I have put up 600MB of pre-spidered Sakai 
+Here is 600MB of pre-spidered Sakai 
 email here:
 
 https://online.dr-chuck.com/files/sakai/email/content.sqlite.zip
